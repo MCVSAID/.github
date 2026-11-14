@@ -1,6 +1,7 @@
 ## MCVSAID — MultiCam Video Stream AI Director
 
-**Spare Android phones as a synced, self-healing multi-camera rig for OBS, cut by hand or by a local AI director.**
+**Flagship Android camera phones, bought used for a few hundred dollars, as a synced, self-healing multi-camera rig for
+OBS, cut by hand or by a local AI director.**
 
 One computer runs it, Mac or Linux. Every phone is set up, matched in colour, armed, updated and repaired from a
 browser. Cut by hand on **Stage Shots**, or let an optional vision model on your own computer choose the shots, and steer
